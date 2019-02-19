@@ -1,0 +1,28 @@
+p {
+  margin-left: 10px;
+  color: black;
+  margin-top: 20px;
+  display: inline;
+}
+
+h1 {
+  margin-left: 10px;
+  color: black;
+  margin-top: 20px;
+}
+main {
+  max-width: 100%;
+  margin-right: 10px;
+  margin-left: 10px;
+  background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
+}
+footer {
+  margin-top: 30px;
+  max-width: 100%;
+  margin-right: 10px;
+  margin-left: 10px;
+  background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
+}
+body {
+  background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
+}

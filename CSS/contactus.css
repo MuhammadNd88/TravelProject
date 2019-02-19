@@ -1,0 +1,11 @@
+.info {
+  max-width: 100%;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+img {
+  background: none;
+}
