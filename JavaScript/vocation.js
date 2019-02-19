@@ -84,7 +84,7 @@ var carTimer = setInterval(catWalk, 1);
 var pageBody = document.getElementsByTagName("div")[5];
 var newImg = document.createElement("img");
 newImg.src =
-  "C:/Users/811192/Desktop/JavaScript/FinalDay/TravelProject/Images/img1.jpg ";
+  "https://github.com/MuhammadNd88/TravelProjectFromMuhammad/tree/master/Images/img.jpg ";
 newImg.style.border = "1px solid black";
 newImg.style.backgroundRepeat = "no-repeat";
 newImg.style.backgroundSize = "cover";
@@ -96,7 +96,7 @@ pageBody.appendChild(newImg);
 var pageBody = document.getElementsByTagName("div")[5];
 var newImg = document.createElement("img");
 newImg.src =
-  "C:/Users/811192/Desktop/JavaScript/FinalDay/TravelProject/Images/img1.jpg ";
+  "https://github.com/MuhammadNd88/TravelProjectFromMuhammad/tree/master/Images/img.jpg ";
 newImg.style.border = "1px solid black";
 newImg.style.backgroundRepeat = "no-repeat";
 newImg.style.backgroundSize = "cover";
@@ -108,7 +108,7 @@ pageBody.appendChild(newImg);
 var pageBody = document.getElementsByTagName("div")[5];
 var newImg = document.createElement("img");
 newImg.src =
-  "C:/Users/811192/Desktop/JavaScript/FinalDay/TravelProject/Images/img1.jpg ";
+  "https://github.com/MuhammadNd88/TravelProjectFromMuhammad/tree/master/Images/img.jpg ";
 newImg.style.border = "1px solid black";
 newImg.style.backgroundRepeat = "no-repeat";
 newImg.style.backgroundSize = "cover";
@@ -120,7 +120,7 @@ pageBody.appendChild(newImg);
 var pageBody = document.getElementsByTagName("div")[5];
 var newImg = document.createElement("img");
 newImg.src =
-  "C:/Users/811192/Desktop/JavaScript/FinalDay/TravelProject/Images/img1.jpg";
+  "https://github.com/MuhammadNd88/TravelProjectFromMuhammad/tree/master/Images/img.jpg";
 newImg.style.border = "1px solid black";
 newImg.style.backgroundRepeat = "no-repeat";
 newImg.style.backgroundSize = "cover";
