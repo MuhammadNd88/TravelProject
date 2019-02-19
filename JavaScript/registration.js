@@ -1,3 +1,4 @@
+// Registration JS file
 //========================================================= show year=========================================
 
 var showYear = document.getElementById("year");
@@ -31,6 +32,3 @@ var showDay = new Date();
 document.getElementById("day").innerHTML = showDay.getDate();
 
 // =====================main Area==========================================================================================
-
-
-

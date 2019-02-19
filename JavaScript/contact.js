@@ -1,3 +1,4 @@
+// contact us JS file
 var showYear = document.getElementById("year");
 var showYear = new Date();
 document.getElementById("year").innerHTML = showYear.getFullYear();
