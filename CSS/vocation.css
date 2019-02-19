@@ -12,17 +12,26 @@ h1 {
 }
 main {
   max-width: 100%;
+
   margin-right: 10px;
   margin-left: 10px;
   background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
 }
 footer {
-  margin-top: 300px;
+  padding-top: 20px;
   max-width: 100%;
+  margin-top: 500px;
   margin-right: 10px;
   margin-left: 10px;
   background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
 }
 body {
   background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
+}
+.image-container {
+  margin-top: 300px;
+  margin-right: 10px;
+  margin-left: 10px;
+  display: inline;
+  float: left;
 }

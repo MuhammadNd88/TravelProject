@@ -72,3 +72,48 @@ function catWalk() {
   }
 }
 var carTimer = setInterval(catWalk, 1);
+
+//=================================================================================image section=======================================================================//
+var pageBody = document.getElementsByTagName("div")[5];
+var newImg = document.createElement("img");
+newImg.src = "C:/Users/811192/Desktop/JavaScript/FinalDay/Images/img1.jpg ";
+newImg.style.border = "1px solid black";
+newImg.style.backgroundRepeat = "no-repeat";
+newImg.style.backgroundSize = "cover";
+newImg.style.width = "200px";
+newImg.style.height = "200px";
+newImg.style.marginRight = "10px";
+pageBody.appendChild(newImg);
+
+var pageBody = document.getElementsByTagName("div")[5];
+var newImg = document.createElement("img");
+newImg.src = "C:/Users/811192/Desktop/JavaScript/FinalDay/Images/img1.jpg ";
+newImg.style.border = "1px solid black";
+newImg.style.backgroundRepeat = "no-repeat";
+newImg.style.backgroundSize = "cover";
+newImg.style.width = "200px";
+newImg.style.height = "200px";
+newImg.style.marginRight = "10px";
+pageBody.appendChild(newImg);
+
+var pageBody = document.getElementsByTagName("div")[5];
+var newImg = document.createElement("img");
+newImg.src = "C:/Users/811192/Desktop/JavaScript/FinalDay/Images/img1.jpg ";
+newImg.style.border = "1px solid black";
+newImg.style.backgroundRepeat = "no-repeat";
+newImg.style.backgroundSize = "cover";
+newImg.style.width = "200px";
+newImg.style.height = "200px";
+newImg.style.marginRight = "10px";
+pageBody.appendChild(newImg);
+
+var pageBody = document.getElementsByTagName("div")[5];
+var newImg = document.createElement("img");
+newImg.src = "C:/Users/811192/Desktop/JavaScript/FinalDay/Images/img1.jpg ";
+newImg.style.border = "1px solid black";
+newImg.style.backgroundRepeat = "no-repeat";
+newImg.style.backgroundSize = "cover";
+newImg.style.width = "200px";
+newImg.style.marginRight = "10px";
+newImg.style.height = "200px";
+pageBody.appendChild(newImg);
