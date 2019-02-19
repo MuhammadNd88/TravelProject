@@ -1,3 +1,9 @@
+/**
+ * Author: Muhammad Nadeem
+ * Date: Feb. 2, 2019
+ * Contain the links of different pages. some introduction sentence contains dummy text copied from site.
+ * footer contain date as required in project
+ */
 // main JS file
 //========================================================= show year=========================================
 

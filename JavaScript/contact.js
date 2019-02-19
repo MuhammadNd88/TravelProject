@@ -1,4 +1,10 @@
-// contact us JS file
+/**
+ * Author: Muhammad Nadeem
+ * Date: Feb. 2, 2019
+ * contact js has an array name and some dumy phone number used as agent data and name.
+ */
+
+
 var showYear = document.getElementById("year");
 var showYear = new Date();
 document.getElementById("year").innerHTML = showYear.getFullYear();

@@ -1,3 +1,8 @@
+/**
+ * Author: Muhammad Nadeem
+ * Date: Feb. 2, 2019
+ * Registration page contain form takes some information from user and submit to a php file.
+ */
 // Registration JS file
 //========================================================= show year=========================================
 

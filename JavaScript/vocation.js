@@ -1,3 +1,9 @@
+/**
+ * Author: Muhammad Nadeem
+ * Date: Feb. 2, 2019
+ * Vocation page contain some image animation and image gallary. 
+to use it?
+ */
 // vocation JS file
 //========================================================= show year=========================================
 
