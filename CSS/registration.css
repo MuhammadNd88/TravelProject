@@ -4,28 +4,32 @@ p {
   color: black;
   margin-top: 20px;
   display: inline;
+  color: white;
 }
 
 h1 {
   margin-left: 10px;
   color: black;
   margin-top: 20px;
+  color: white;
 }
 main {
   max-width: 100%;
   margin-right: 10px;
   margin-left: 10px;
   background-image: ;
+  color: white;
 }
 footer {
   margin-top: 700px;
   max-width: 100%;
   margin-right: 10px;
   margin-left: 10px;
-  background-image: 	#36454f;
+  background-color: #36454f;
+  color: white;
 }
 body {
-  background-color: #36454f;;
+  background-color: #36454f;
 }
 
 main {
@@ -35,4 +39,5 @@ main {
   margin-top: 10px;
   margin-right: 100px;
   margin-bottom: 200px;
+  color: white;
 }

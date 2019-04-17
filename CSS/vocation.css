@@ -1,19 +1,19 @@
 /* =================================Vocation css file ================================================ */
 p {
   margin-left: 10px;
-  color: black;
+  color: white;
   margin-top: 20px;
   display: inline;
 }
 
 h1 {
   margin-left: 10px;
-  color: black;
+  color: white;
   margin-top: 20px;
 }
 main {
   max-width: 100%;
-
+  color: white;
   margin-right: 10px;
   margin-left: 10px;
   background-color: #36454f;
@@ -21,6 +21,7 @@ main {
 footer {
   padding-top: 20px;
   max-width: 100%;
+  color: white;
   margin-top: 500px;
   margin-right: 10px;
   margin-left: 10px;
