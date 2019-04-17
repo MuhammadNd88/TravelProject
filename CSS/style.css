@@ -3,6 +3,7 @@ p {
   margin-left: 10px;
   color: black;
   margin-top: 20px;
+
   display: inline;
   color: white;
 }
@@ -31,4 +32,14 @@ footer {
 body {
   background-color: #36454f;
   color: white;
+}
+.image-home {
+  background-image: url("../Images/back.jpg");
+  width: 100%;
+
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: relative;
+  height: 95vh;
 }

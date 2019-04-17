@@ -94,7 +94,7 @@ pageBody.appendChild(newImg);
 
 var pageBody = document.getElementsByTagName("div")[5];
 var newImg = document.createElement("img");
-newImg.src = "../Images/img1.jpg ";
+newImg.src = "../Images/2.jpg ";
 newImg.style.border = "1px solid black";
 newImg.style.backgroundRepeat = "no-repeat";
 newImg.style.backgroundSize = "cover";
@@ -105,7 +105,7 @@ pageBody.appendChild(newImg);
 
 var pageBody = document.getElementsByTagName("div")[5];
 var newImg = document.createElement("img");
-newImg.src = "../Images/img1.jpg ";
+newImg.src = "../Images/3.jpg ";
 newImg.style.border = "1px solid black";
 newImg.style.backgroundRepeat = "no-repeat";
 newImg.style.backgroundSize = "cover";
@@ -116,7 +116,7 @@ pageBody.appendChild(newImg);
 
 var pageBody = document.getElementsByTagName("div")[5];
 var newImg = document.createElement("img");
-newImg.src = "../Images/img1.jpg";
+newImg.src = "../Images/4.jpg";
 newImg.style.border = "1px solid black";
 newImg.style.backgroundRepeat = "no-repeat";
 newImg.style.backgroundSize = "cover";
