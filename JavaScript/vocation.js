@@ -71,10 +71,10 @@ function catWalk() {
     walkForward = true;
   }
   if (walkForward) {
-    cat.style.transform = "scaleX(-1)";
+    cat.style.transform = "scaleX(1)";
     cat.style.left = cat.offsetLeft + 1 + "px";
   } else {
-    cat.style.transform = "scaleX(1)";
+    cat.style.transform = "scaleX(-1)";
     cat.style.left = cat.offsetLeft - 1 + "px";
   }
 }

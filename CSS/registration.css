@@ -15,17 +15,17 @@ main {
   max-width: 100%;
   margin-right: 10px;
   margin-left: 10px;
-  background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
+  background-image: ;
 }
 footer {
   margin-top: 700px;
   max-width: 100%;
   margin-right: 10px;
   margin-left: 10px;
-  background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
+  background-image: 	#36454f;
 }
 body {
-  background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
+  background-color: #36454f;;
 }
 
 main {

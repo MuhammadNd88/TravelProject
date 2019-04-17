@@ -16,7 +16,7 @@ main {
 
   margin-right: 10px;
   margin-left: 10px;
-  background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
+  background-color: #36454f;
 }
 footer {
   padding-top: 20px;
@@ -24,10 +24,10 @@ footer {
   margin-top: 500px;
   margin-right: 10px;
   margin-left: 10px;
-  background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
+  background-color: #36454f;
 }
 body {
-  background-image: radial-gradient(#6497b1, rgb(4, 94, 94), #046e69);
+  background-color: #36454f;
 }
 .image-container {
   margin-top: 300px;
@@ -35,4 +35,8 @@ body {
   margin-left: 10px;
   display: inline;
   float: left;
+}
+img {
+  width: 400px;
+  height: 200px;
 }
